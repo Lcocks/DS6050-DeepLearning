@@ -1,0 +1,23 @@
+--find-links https://download.pytorch.org/whl/cu128
+
+## For Jupyter Notebooks
+ipykernel
+
+## Utils
+tqdm
+
+## Main Packages
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.2.3
+scikit-learn==1.7.1
+torch==2.7.1
+torchvision==0.22.1
+torchaudio==2.7.1
+
+## Plotting
+matplotlib
+seaborn
+
+## Misc
+# wandb==0.21.0
